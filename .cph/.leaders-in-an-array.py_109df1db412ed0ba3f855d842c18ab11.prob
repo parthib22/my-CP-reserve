@@ -1,0 +1,1 @@
+{"name":"Local: leaders-in-an-array","url":"c:\\Users\\parth\\Desktop\\CP\\leaders-in-an-array.py","tests":[{"id":1692513128643,"input":"1\n6\n16 17 4 3 5 2","output":"17 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\leaders-in-an-array.py","group":"local","local":true}
