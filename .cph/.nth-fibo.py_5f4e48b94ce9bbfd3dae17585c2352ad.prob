@@ -1,0 +1,1 @@
+{"name":"Local: nth-fibo","url":"c:\\Users\\parth\\Desktop\\CP\\nth-fibo.py","tests":[{"id":1692534428712,"input":"2","output":"1"},{"id":1692534436057,"input":"5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\nth-fibo.py","group":"local","local":true}
