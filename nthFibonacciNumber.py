@@ -6,7 +6,7 @@ class Solution:
         for i in range(n):
             x = x + y
             y = x - y
-        return x
+        return x % 1000000007
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1 @@
+{"name":"Local: surround-the-1s","url":"c:\\Users\\parth\\Desktop\\CP\\surround-the-1s.java","tests":[{"id":1692694609569,"input":"3 3\n1 0 0\n1 1 0\n0 1 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\surround-the-1s.java","group":"local","local":true}

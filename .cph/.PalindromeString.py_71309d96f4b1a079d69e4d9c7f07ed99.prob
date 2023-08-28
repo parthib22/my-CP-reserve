@@ -1,0 +1,1 @@
+{"name":"Local: PalindromeString","url":"c:\\Users\\parth\\Desktop\\CP\\PalindromeString.py","tests":[{"id":1693225167045,"input":"abba","output":"1"},{"id":1693225266983,"input":"abc","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\PalindromeString.py","group":"local","local":true}
