@@ -4,8 +4,10 @@ class Solution:
         x = 0
         y = 1
         for i in range(n):
-            x = x + y
-            y = x - y
+            # x = x + y
+            # y = x - y
+            c = x + y
+            x, y = y, c
         return x % 1000000007
 
 
