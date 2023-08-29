@@ -1,0 +1,1 @@
+{"name":"Local: FlipBits","url":"c:\\Users\\parth\\Desktop\\CP\\FlipBits.py","tests":[{"id":1693327082631,"input":"5\n1 0 0 1 0","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\FlipBits.py","group":"local","local":true}
