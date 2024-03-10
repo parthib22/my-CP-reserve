@@ -1,4 +1,5 @@
 # GFG POTD 08.03.2024
+# https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1
 
 # Find the N-th character
 
