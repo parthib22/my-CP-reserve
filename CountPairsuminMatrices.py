@@ -1,6 +1,6 @@
 # https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1
 
-# Daily 11.03.2024
+# POTD 11.03.2024
 
 # Count pairs Sum in matrices
 
