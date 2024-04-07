@@ -1,0 +1,1 @@
+{"name":"Local: CountWaystoNthStair","url":"c:\\Users\\parth\\Desktop\\CP\\GFG\\CountWaystoNthStair.py","tests":[{"id":1712474849328,"input":"4","output":"3"},{"id":1712474855180,"input":"5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\Desktop\\CP\\GFG\\CountWaystoNthStair.py","group":"local","local":true}

@@ -38,8 +38,9 @@
 class Solution:
     def insertAtBottom(self, st, x):
         # code here
-        st.insert(0, x)
-        return st
+        return [x] + st
+        # st.insert(0, x)
+        # return st
 
 
 if __name__ == "__main__":
