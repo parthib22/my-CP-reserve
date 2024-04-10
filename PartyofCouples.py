@@ -29,6 +29,8 @@
 # Expected Time Complexity: O(n)
 # Expected Auxiliary Space: O(1)
 
+# from functools import reduce
+
 
 class Solution:
     def findSingle(self, n, arr):
@@ -41,6 +43,15 @@ class Solution:
         for key, value in hashmap.items():
             if value % 2 > 0:
                 return key
+
+    # def findSingle(self, n, arr):
+    #     single_person = 0
+    #     for num in arr:
+    #         single_person ^= num
+    #     return single_person
+
+    # def findSingle(self, n, arr):
+    #     return reduce(lambda x, y: x ^ y, arr, 0)
 
 
 if __name__ == "__main__":
