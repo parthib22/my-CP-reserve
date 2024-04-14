@@ -1,0 +1,1 @@
+{"name":"Local: ReverseBits","url":"c:\\Users\\parth\\desktop\\cp\\gfg\\ReverseBits.py","tests":[{"id":1713079584811,"input":"1","output":"2147483648"},{"id":1713079595938,"input":"5","output":"2684354560"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\parth\\desktop\\cp\\gfg\\ReverseBits.py","group":"local","local":true}
