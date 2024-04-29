@@ -35,7 +35,6 @@ class Solution:
         # Code here
 
         start = head
-        m = n = 0
 
         while True:
 
