@@ -31,25 +31,25 @@
 class Solution:
     def generateNextPalindrome(self, num, n):
         # code here
-        m=n//2
-        p=m
-        L=[]
-        L=num[:m]
-        if n==1:
+        m = n // 2
+        p = m
+        L = []
+        L = num[:m]
+        if n == 1:
             return L
-        if n%2 == 0:
-	        if num[m-1]<num[m]:
-	            L[-1]=L[-1]+1
+        if n % 2 == 0:
+            if num[m - 1] < num[m]:
+                L[-1] = L[-1] + 1
         else:
-	        L.append(num[m])
-            if num[m-1]<=num[m+1]:
-	            L[-1]=L[-1]+1
+            L.append(num[m])
+            if num[m - 1] <= num[m + 1]:
+                L[-1] = L[-1] + 1
             while L[p] > 9:
-	            L[p],L[p-1],p=0,L[p-1]+1,p-1
-        for i in range(m-1,-1,-1):
-	        L.append(L[i])
+                L[p], L[p - 1], p = 0, L[p - 1] + 1, p - 1
+        for i in range(m - 1, -1, -1):
+            L.append(L[i])
         return L
-    
+
         # m = n // 2
         # k = m
         # L = []
